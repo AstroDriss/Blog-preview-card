@@ -19,8 +19,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [not yet]()
-- Live Site URL: [not yet]()
+- Solution URL: [here](https://www.frontendmentor.io/solutions/blog-preview-card-2Psc1MF-EJ)
+- Live Site URL: [here](https://blog-preview-card-lake.vercel.app/)
 
 ## My process
 
